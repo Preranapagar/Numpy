@@ -1,16 +1,14 @@
-# Numpy
-
-- Creating arrays from scratch
-- Numpy array attributes
-- Array Indexing : accesing single element
-- Array Slicing : accesing subarrays
-    * 1-D Array
-    * Multi-dimensional array
-- Copying array
-- Reshaping array
-- Concatenation of arrays
-- Splitting of array
 
 # Numpy for Data Science
 
-
+* Application
+* Import Library
+* Datatypes Handled by Numpy
+* Datatypes of Array
+    - Change Datatypes of Array
+* Dimensions of Array
+    - 0-D (Scalars)
+    - 1-D (Vectors)
+    - 2-D (Matrices)
+    - 3-D
+* Indexing & Slicing
