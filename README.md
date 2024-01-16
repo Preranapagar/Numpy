@@ -27,4 +27,6 @@
     - np.nditer()
     - np.ndenumerate()
 
-* 
+* Functions
+    - np.zeros()
+    
