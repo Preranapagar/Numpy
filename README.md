@@ -29,4 +29,14 @@
 
 * Functions
     - np.zeros()
+    - np.ones()
+    - np.arrange()
+    - np.linspace()
+    - np.eye()
+    - np.identity()
+    - random
+        - np.random.rand()
+        - np.random.randint()
+        - np.random.randn()
+        - np.random.ranf()
     
