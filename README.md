@@ -46,4 +46,18 @@
     - np.ceil
     - np.floor
     - np.around
+    - np.where
+
+* Convert array to list
+
+* Numerical Operations
+
+* Matrix Addition
+    - np.add
+
+* Matrix Multiplication
+    - np.multiply
+
+* Matrix Dot Product
+    - np.dot
     
