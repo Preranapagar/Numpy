@@ -34,9 +34,16 @@
     - np.linspace()
     - np.eye()
     - np.identity()
-    - random
+    - np.random
         - np.random.rand()
         - np.random.randint()
         - np.random.randn()
         - np.random.ranf()
+    - Creating Dataframe using functions
+    - np.sort
+    - np.append
+    - np.concatenate
+    - np.ceil
+    - np.floor
+    - np.around
     
