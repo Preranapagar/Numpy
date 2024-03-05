@@ -87,4 +87,13 @@
     - np.rad2deg
 
 * Log
+    - np.log
+    - np.log2
+    - np.log10
+
+* Linear Algebra
+    - np.linalg.solve
+    - np.linalg.inv
+
+* Copy of Array
     
