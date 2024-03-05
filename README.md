@@ -21,6 +21,7 @@
 * Changing Dimensions
     - Convert to n-D Array
     - Flatten Array or Ravel Array
+    - Reshape Array
 
 * Access array elements using loop
     - For loop
@@ -41,16 +42,23 @@
         - np.random.ranf()
     - Creating Dataframe using functions
     - np.sort
+    - np.where
+    - np.full
+
+* Join Arrays
     - np.append
     - np.concatenate
-    - np.ceil
-    - np.floor
-    - np.around
-    - np.where
 
 * Convert array to list
 
 * Numerical Operations
+    - np.ceil
+    - np.floor
+    - np.around
+    - np.sqrt
+    - np.cbrt
+    - np.sum
+    - other operations
 
 * Matrix Addition
     - np.add
@@ -60,4 +68,23 @@
 
 * Matrix Dot Product
     - np.dot
+
+* Statistics
+    - np.mean
+    - np.median
+    - np.std
+    - np.var
+    - np.min
+    - np.max
+    - mode
+
+* Trignometry
+    - np.pi
+    - np.sin
+    - np.cos
+    - np.tan
+    - np.deg2rad
+    - np.rad2deg
+
+* Log
     
